@@ -1,0 +1,15 @@
+/home/zameerahammad/HelloLinux/bin/Debug/net6.0/HelloLinux
+/home/zameerahammad/HelloLinux/bin/Debug/net6.0/HelloLinux.deps.json
+/home/zameerahammad/HelloLinux/bin/Debug/net6.0/HelloLinux.runtimeconfig.json
+/home/zameerahammad/HelloLinux/bin/Debug/net6.0/HelloLinux.dll
+/home/zameerahammad/HelloLinux/bin/Debug/net6.0/HelloLinux.pdb
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/HelloLinux.csproj.AssemblyReference.cache
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/HelloLinux.GeneratedMSBuildEditorConfig.editorconfig
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/HelloLinux.AssemblyInfoInputs.cache
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/HelloLinux.AssemblyInfo.cs
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/HelloLinux.csproj.CoreCompileInputs.cache
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/HelloLinux.dll
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/refint/HelloLinux.dll
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/HelloLinux.pdb
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/HelloLinux.genruntimeconfig.cache
+/home/zameerahammad/HelloLinux/obj/Debug/net6.0/ref/HelloLinux.dll
